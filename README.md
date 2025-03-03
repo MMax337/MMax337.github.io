@@ -10,8 +10,8 @@ The index is updated monthly, allowing it to capture the dynamic nature of the p
 ## Table of Contents
 ### Rankings
 
-- [List of Programming Languages](#list_ranking.md)
-- [Table of Programming Languages](#table_ranking.md)
+- [List of Programming Languages](/markdown/list_ranking.md)
+- [Table of Programming Languages](/markdown/table_ranking.md)
 
 ### Internet Search
-- [Internet Search](#internet_search.md)
+- [Internet Search](/markdown/internet_search.md)
