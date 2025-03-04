@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the Scratch programmer break up with their partner?  Because they kept getting stuck in loops!
 
-### [Documantation](https://scratch.mit.edu/)
+### [Documentation](https://scratch.mit.edu/)

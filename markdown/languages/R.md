@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do R programmers make terrible secret agents?  Because they always reveal their "data"!
 
-### [Documantation](https://www.rdocumentation.org/)
+### [Documentation](https://www.rdocumentation.org/)

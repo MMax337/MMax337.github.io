@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do COBOL programmers always carry a pencil?  Because they want to keep their code "write"!
 
-### [Documantation](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
+### [Documentation](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)

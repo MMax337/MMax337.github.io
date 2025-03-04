@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Python programmers prefer dark mode?  Because light attracts bugs!
 
-### [Documantation](https://www.python.org/doc/)
+### [Documentation](https://www.python.org/doc/)

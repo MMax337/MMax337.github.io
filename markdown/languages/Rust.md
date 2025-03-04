@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Rust developers never get lost?  Because they always borrow the right path!
 
-### [Documantation](https://doc.rust-lang.org/)
+### [Documentation](https://doc.rust-lang.org/)

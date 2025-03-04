@@ -8,7 +8,7 @@
 ### AI Joke:
 - Why do Python programmers prefer dark mode?  Because light attracts bugs!
 
-### [Documantation](https://www.python.org/doc/)
+### [Documentation](https://www.python.org/doc/)
 
 # C++ ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png)
 ### What is C++?:
@@ -20,7 +20,7 @@
 ### AI Joke:
 - Why do C++ programmers have trouble with relationships?  Because they always have to deal with pointers!
 
-### [Documantation](https://cplusplus.com/doc/tutorial/)
+### [Documentation](https://cplusplus.com/doc/tutorial/)
 
 # Java ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png)
 ### What is Java?:
@@ -32,7 +32,7 @@
 ### AI Joke:
 - Why do Java developers wear glasses?  Because they don't see sharp!
 
-### [Documantation](https://docs.oracle.com/en/java/)
+### [Documentation](https://docs.oracle.com/en/java/)
 
 # C ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png)
 ### What is C?:
@@ -44,7 +44,7 @@
 ### AI Joke:
 - Why do C programmers always mix up Christmas and Halloween?  Because Oct 31 == Dec 25!
 
-### [Documantation](https://devdocs.io/c/)
+### [Documentation](https://devdocs.io/c/)
 
 # C# ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png)
 ### What is C#?:
@@ -56,7 +56,7 @@
 ### AI Joke:
 - Why do C# developers prefer to play hide and seek?  Because good luck hiding when they always have a "using" statement!
 
-### [Documantation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+### [Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 # JavaScript ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)
 ### What is JavaScript?:
@@ -68,7 +68,7 @@
 ### AI Joke:
 - Why did the JavaScript developer go broke?  Because he kept using "null" as a value!
 
-### [Documantation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # SQL ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png)
 ### What is SQL?:
@@ -80,7 +80,7 @@
 ### AI Joke:
 - Why do SQL databases make terrible friends?  Because they always want to join!
 
-### [Documantation](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
+### [Documentation](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
 # Go ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Go.png)
 ### What is Go?:
@@ -92,7 +92,7 @@
 ### AI Joke:
 - Why do Go developers love nature?  Because they can't resist a good "goroutine"!
 
-### [Documantation](https://go.dev/doc/)
+### [Documentation](https://go.dev/doc/)
 
 # Delphi/Object Pascal ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)
 ### What is Delphi/Object Pascal?:
@@ -104,7 +104,7 @@
 ### AI Joke:
 - Why did the Delphi programmer break up with their partner?  Because they couldn't handle the "object" in the relationship!
 
-### [Documantation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)
+### [Documentation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)
 
 # Visual Basic ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)
 ### What is Visual Basic?:
@@ -116,7 +116,7 @@
 ### AI Joke:
 - Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" everyone!
 
-### [Documantation](nan)
+### [Documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 # Fortran ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)
 ### What is Fortran?:
@@ -128,7 +128,7 @@
 ### AI Joke:
 - Why do Fortran programmers always carry a pencil?  Because they can't handle "floating point" errors!
 
-### [Documantation](https://www.fortran90.org/)
+### [Documentation](https://www.fortran90.org/)
 
 # Scratch ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)
 ### What is Scratch?:
@@ -140,7 +140,7 @@
 ### AI Joke:
 - Why did the Scratch programmer break up with their partner?  Because they kept getting stuck in loops!
 
-### [Documantation](https://scratch.mit.edu/)
+### [Documentation](https://scratch.mit.edu/)
 
 # Rust ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png)
 ### What is Rust?:
@@ -152,7 +152,7 @@
 ### AI Joke:
 - Why do Rust developers never get lost?  Because they always borrow the right path!
 
-### [Documantation](https://doc.rust-lang.org/)
+### [Documentation](https://doc.rust-lang.org/)
 
 # PHP ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png)
 ### What is PHP?:
@@ -164,7 +164,7 @@
 ### AI Joke:
 - Why did the PHP developer go broke?  Because they kept using "echo" instead of saving!
 
-### [Documantation](https://www.php.net/docs.php)
+### [Documentation](https://www.php.net/docs.php)
 
 # R ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png)
 ### What is R?:
@@ -176,7 +176,7 @@
 ### AI Joke:
 - Why do R programmers make terrible secret agents?  Because they always reveal their "data"!
 
-### [Documantation](https://www.rdocumentation.org/)
+### [Documentation](https://www.rdocumentation.org/)
 
 # MATLAB ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)
 ### What is MATLAB?:
@@ -188,7 +188,7 @@
 ### AI Joke:
 - Why did the MATLAB programmer bring a ladder to work?  Because they heard the job had a lot of "high-level" functions!
 
-### [Documantation](https://www.mathworks.com/help/matlab/)
+### [Documentation](https://www.mathworks.com/help/matlab/)
 
 # Assembly language ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)
 ### What is Assembly language?:
@@ -200,7 +200,7 @@
 ### AI Joke:
 - Why do Assembly language programmers prefer to work alone?  Because they can't stand all the overhead!
 
-### [Documantation](nan)
+### [Documentation](nan)
 
 # COBOL ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)
 ### What is COBOL?:
@@ -212,7 +212,7 @@
 ### AI Joke:
 - Why do COBOL programmers always carry a pencil?  Because they want to keep their code "write"!
 
-### [Documantation](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
+### [Documentation](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
 
 # Ruby ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)
 ### What is Ruby?:
@@ -224,7 +224,7 @@
 ### AI Joke:
 - Why do Ruby developers love nature?  Because they enjoy working with "blocks"!
 
-### [Documantation](https://www.ruby-lang.org/en/documentation/)
+### [Documentation](https://www.ruby-lang.org/en/documentation/)
 
 # Prolog ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Prolog.png)
 ### What is Prolog?:
@@ -236,4 +236,4 @@
 ### AI Joke:
 - Why did the Prolog programmer get kicked out of the party?  Because they kept trying to query everyone!
 
-### [Documantation](https://www.swi-prolog.org/pldoc/index.html)
+### [Documentation](https://www.swi-prolog.org/pldoc/index.html)

@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Go developers love nature?  Because they can't resist a good "goroutine"!
 
-### [Documantation](https://go.dev/doc/)
+### [Documentation](https://go.dev/doc/)

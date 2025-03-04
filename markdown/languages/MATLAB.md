@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the MATLAB programmer bring a ladder to work?  Because they heard the job had a lot of "high-level" functions!
 
-### [Documantation](https://www.mathworks.com/help/matlab/)
+### [Documentation](https://www.mathworks.com/help/matlab/)

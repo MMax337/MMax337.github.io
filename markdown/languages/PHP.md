@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the PHP developer go broke?  Because they kept using "echo" instead of saving!
 
-### [Documantation](https://www.php.net/docs.php)
+### [Documentation](https://www.php.net/docs.php)

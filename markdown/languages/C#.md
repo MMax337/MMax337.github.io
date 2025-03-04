@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do C# developers prefer to play hide and seek?  Because good luck hiding when they always have a "using" statement!
 
-### [Documantation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+### [Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)

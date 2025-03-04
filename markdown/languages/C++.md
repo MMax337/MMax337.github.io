@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do C++ programmers have trouble with relationships?  Because they always have to deal with pointers!
 
-### [Documantation](https://cplusplus.com/doc/tutorial/)
+### [Documentation](https://cplusplus.com/doc/tutorial/)

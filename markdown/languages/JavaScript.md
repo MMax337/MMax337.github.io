@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the JavaScript developer go broke?  Because he kept using "null" as a value!
 
-### [Documantation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

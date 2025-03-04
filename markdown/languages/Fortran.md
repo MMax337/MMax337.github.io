@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Fortran programmers always carry a pencil?  Because they can't handle "floating point" errors!
 
-### [Documantation](https://www.fortran90.org/)
+### [Documentation](https://www.fortran90.org/)

@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" everyone!
 
-### [Documantation](nan)
+### [Documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)

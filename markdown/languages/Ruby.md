@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Ruby developers love nature?  Because they enjoy working with "blocks"!
 
-### [Documantation](https://www.ruby-lang.org/en/documentation/)
+### [Documentation](https://www.ruby-lang.org/en/documentation/)

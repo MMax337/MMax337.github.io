@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do C programmers always mix up Christmas and Halloween?  Because Oct 31 == Dec 25!
 
-### [Documantation](https://devdocs.io/c/)
+### [Documentation](https://devdocs.io/c/)

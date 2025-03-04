@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the Prolog programmer get kicked out of the party?  Because they kept trying to query everyone!
 
-### [Documantation](https://www.swi-prolog.org/pldoc/index.html)
+### [Documentation](https://www.swi-prolog.org/pldoc/index.html)

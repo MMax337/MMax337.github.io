@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why did the Delphi programmer break up with their partner?  Because they couldn't handle the "object" in the relationship!
 
-### [Documantation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)
+### [Documentation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)

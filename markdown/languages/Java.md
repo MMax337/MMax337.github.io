@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do Java developers wear glasses?  Because they don't see sharp!
 
-### [Documantation](https://docs.oracle.com/en/java/)
+### [Documentation](https://docs.oracle.com/en/java/)
