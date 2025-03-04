@@ -7,6 +7,8 @@
 
 ### Top Rank Count: **5**
 
+### Read More(/languages/Python.md)
+
 # 2. **C++** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png)
 ### Rating:
 - **Feb 2025 Rating**: 2 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/up.png)
@@ -15,6 +17,8 @@
 - **Ratings**: **11.37%**
 
 ### Top Rank Count: **3**
+
+### Read More(/languages/C++.md)
 
 # 3. **Java** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png)
 ### Rating:
@@ -25,6 +29,8 @@
 
 ### Top Rank Count: **2**
 
+### Read More(/languages/Java.md)
+
 # 4. **C** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png)
 ### Rating:
 - **Feb 2025 Rating**: 4 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/down.png)
@@ -33,6 +39,8 @@
 - **Ratings**: **9.84%**
 
 ### Top Rank Count: **3**
+
+### Read More(/languages/C.md)
 
 # 5. **C#** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png)
 ### Rating:
@@ -43,6 +51,8 @@
 
 ### Top Rank Count: **1**
 
+### Read More(/languages/C#.md)
+
 # 6. **JavaScript** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)
 ### Rating:
 - **Feb 2025 Rating**: 6 ![]()
@@ -51,6 +61,8 @@
 - **Ratings**: **3.78%**
 
 ### Top Rank Count: **1**
+
+### Read More(/languages/JavaScript.md)
 
 # 7. **SQL** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png)
 ### Rating:
@@ -61,6 +73,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/SQL.md)
+
 # 8. **Go** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Go.png)
 ### Rating:
 - **Feb 2025 Rating**: 8 ![]()
@@ -69,6 +83,8 @@
 - **Ratings**: **2.26%**
 
 ### Top Rank Count: **2**
+
+### Read More(/languages/Go.md)
 
 # 9. **Delphi/Object Pascal** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)
 ### Rating:
@@ -79,6 +95,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/Delphi_Object Pascal.md)
+
 # 10. **Visual Basic** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)
 ### Rating:
 - **Feb 2025 Rating**: 10 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/down.png)
@@ -87,6 +105,8 @@
 - **Ratings**: **2.04%**
 
 ### Top Rank Count: **0**
+
+### Read More(/languages/Visual Basic.md)
 
 # 11. **Fortran** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)
 ### Rating:
@@ -97,6 +117,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/Fortran.md)
+
 # 12. **Scratch** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)
 ### Rating:
 - **Feb 2025 Rating**: 12 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/up.png)
@@ -105,6 +127,8 @@
 - **Ratings**: **1.54%**
 
 ### Top Rank Count: **0**
+
+### Read More(/languages/Scratch.md)
 
 # 13. **Rust** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png)
 ### Rating:
@@ -115,6 +139,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/Rust.md)
+
 # 14. **PHP** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png)
 ### Rating:
 - **Feb 2025 Rating**: 14 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/downdown.png)
@@ -123,6 +149,8 @@
 - **Ratings**: **1.14%**
 
 ### Top Rank Count: **1**
+
+### Read More(/languages/PHP.md)
 
 # 15. **R** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png)
 ### Rating:
@@ -133,6 +161,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/R.md)
+
 # 16. **MATLAB** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)
 ### Rating:
 - **Feb 2025 Rating**: 16 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/down.png)
@@ -141,6 +171,8 @@
 - **Ratings**: **0.98%**
 
 ### Top Rank Count: **0**
+
+### Read More(/languages/MATLAB.md)
 
 # 17. **Assembly language** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)
 ### Rating:
@@ -151,6 +183,8 @@
 
 ### Top Rank Count: **0**
 
+### Read More(/languages/Assembly language.md)
+
 # 18. **COBOL** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)
 ### Rating:
 - **Feb 2025 Rating**: 18 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/up.png)
@@ -159,6 +193,8 @@
 - **Ratings**: **0.82%**
 
 ### Top Rank Count: **0**
+
+### Read More(/languages/COBOL.md)
 
 # 19. **Ruby** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)
 ### Rating:
@@ -169,6 +205,8 @@
 
 ### Top Rank Count: **1**
 
+### Read More(/languages/Ruby.md)
+
 # 20. **Prolog** ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Prolog.png)
 ### Rating:
 - **Feb 2025 Rating**: 20 ![](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/upup.png)
@@ -177,3 +215,5 @@
 - **Ratings**: **0.80%**
 
 ### Top Rank Count: **0**
+
+### Read More(/languages/Prolog.md)
