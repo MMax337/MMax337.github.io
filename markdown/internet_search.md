@@ -8,6 +8,8 @@
 ### AI Joke:
 - Why do Python programmers prefer dark mode?  Because light attracts bugs!
 
+### [Documantation](https://www.python.org/doc/)
+
 # C++ ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png)
 ### What is C++?:
 - Learn what C++ is, why use it, and how it differs from C. C++ is a cross-platform, object-oriented language that can create high-performance applications.
@@ -18,15 +20,19 @@
 ### AI Joke:
 - Why do C++ programmers have trouble with relationships?  Because they always have to deal with pointers!
 
+### [Documantation](https://cplusplus.com/doc/tutorial/)
+
 # Java ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png)
 ### What is Java?:
 - Java is a versatile and reliable platform for many digital services and applications. Learn what Java is, why you need it, and how to download and update it from java.com.
 
 ### What is Java used for?:
-- Learn about Java's history, features, and applications in various domains, such as Android, web, game, big data, IoT, and cloud development. Find out how to get started with Java and explore more courses and tutorials.
+- Java is a versatile and reliable platform for many digital services and applications, from web browsers to mobile devices. Learn what Java is, why you need it, and how to download and update it from java.com.
 
 ### AI Joke:
 - Why do Java developers wear glasses?  Because they don't see sharp!
+
+### [Documantation](https://docs.oracle.com/en/java/)
 
 # C ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png)
 ### What is C?:
@@ -38,6 +44,8 @@
 ### AI Joke:
 - Why do C programmers always mix up Christmas and Halloween?  Because Oct 31 == Dec 25!
 
+### [Documantation](https://devdocs.io/c/)
+
 # C# ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png)
 ### What is C#?:
 - C# is an object-oriented programming language created by Microsoft that runs on the .NET Framework. Learn the basics of C#, its features, applications and benefits in this tutorial.
@@ -47,6 +55,8 @@
 
 ### AI Joke:
 - Why do C# developers prefer to play hide and seek?  Because good luck hiding when they always have a "using" statement!
+
+### [Documantation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 # JavaScript ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)
 ### What is JavaScript?:
@@ -58,6 +68,8 @@
 ### AI Joke:
 - Why did the JavaScript developer go broke?  Because he kept using "null" as a value!
 
+### [Documantation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 # SQL ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png)
 ### What is SQL?:
 - Benefits of SQL. Efficiency: SQL is designed to handle complex queries and large datasets with optimal performance, making data retrieval and manipulation seamless. Standardization: As an ANSI and ISO standard language, SQL provides a universal method to interact with relational databases across platforms.
@@ -67,6 +79,8 @@
 
 ### AI Joke:
 - Why do SQL databases make terrible friends?  Because they always want to join!
+
+### [Documantation](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
 # Go ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Go.png)
 ### What is Go?:
@@ -78,6 +92,8 @@
 ### AI Joke:
 - Why do Go developers love nature?  Because they can't resist a good "goroutine"!
 
+### [Documantation](https://go.dev/doc/)
+
 # Delphi/Object Pascal ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)
 ### What is Delphi/Object Pascal?:
 - Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal is a programming language.
@@ -86,7 +102,9 @@
 - Borland used the name Object Pascal for the programming language in the first versions of Delphi, but later renamed it to the Delphi programming language. However, compilers that claim to be compatible with Object Pascal are often trying to be compatible with Delphi source code.
 
 ### AI Joke:
-- Why did the Delphi programmer break up with their partner?  Because they couldn't handle the "object" of their affection!
+- Why did the Delphi programmer break up with their partner?  Because they couldn't handle the "object" in the relationship!
+
+### [Documantation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)
 
 # Visual Basic ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)
 ### What is Visual Basic?:
@@ -96,7 +114,9 @@
 - Visual Basic is written in Visual Studio and can be used to create executable files that can run independently. On the other hand, VBA only works within a Microsoft Office host application: Word, Outlook, Excel, Access, or PowerPoint.
 
 ### AI Joke:
-- Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" all the lights!
+- Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" everyone!
+
+### [Documantation](nan)
 
 # Fortran ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)
 ### What is Fortran?:
@@ -108,6 +128,8 @@
 ### AI Joke:
 - Why do Fortran programmers always carry a pencil?  Because they can't handle "floating point" errors!
 
+### [Documantation](https://www.fortran90.org/)
+
 # Scratch ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)
 ### What is Scratch?:
 - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
@@ -118,15 +140,19 @@
 ### AI Joke:
 - Why did the Scratch programmer break up with their partner?  Because they kept getting stuck in loops!
 
+### [Documantation](https://scratch.mit.edu/)
+
 # Rust ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png)
 ### What is Rust?:
-- Rust is a fast, memory-safe, and productive programming language that can run on embedded devices, web services, and more. Learn why Rust is used by hundreds of companies and how to get started with its documentation, tools, and community.
+- Rust is a reddish-brown oxide formed by the reaction of iron and oxygen in the presence of water or air moisture. It is a common form of corrosion that can damage iron structures and has economic and environmental impacts.
 
 ### What is Rust used for?:
 - Rust has been Stack Overflow's most loved language for four years in a row, indicating that many of those who have had the opportunity to use Rust have fallen in love with it.However, the roughly 97% of survey respondents who haven't used Rust may wonder, "What's the deal with Rust?
 
 ### AI Joke:
 - Why do Rust developers never get lost?  Because they always borrow the right path!
+
+### [Documantation](https://doc.rust-lang.org/)
 
 # PHP ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png)
 ### What is PHP?:
@@ -138,25 +164,31 @@
 ### AI Joke:
 - Why did the PHP developer go broke?  Because they kept using "echo" instead of saving!
 
+### [Documantation](https://www.php.net/docs.php)
+
 # R ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png)
 ### What is R?:
 - R is a free software project that provides a wide range of statistical and graphical techniques, similar to the S language and environment. R is highly extensible, user-friendly and runs on various platforms.
 
 ### What is R used for?:
-- R Programming Language - FAQs What is the R programming language used for? The R programming language is used for statistical analysis, data visualization, and data science. It's popular among researchers, data scientists, and statisticians for its powerful tools and packages. How do I install R and RStudio?
+- R is used by many quantitative analysts as its programming tool. Thus, it helps in data importing and cleaning. R is the most prevalent language. So many data analysts and research programmers use it. Hence, it is used as a fundamental tool for finance.
 
 ### AI Joke:
-- Why do R programmers make great detectives?  Because they always know how to "ggplot" the evidence!
+- Why do R programmers make terrible secret agents?  Because they always reveal their "data"!
+
+### [Documantation](https://www.rdocumentation.org/)
 
 # MATLAB ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)
 ### What is MATLAB?:
 - MATLAB ® is a programming and numeric computing platform for engineering and scientific applications like data analysis, signal and image processing, control systems, wireless communications, and robotics. MATLAB includes a programming language, interactive apps, highly specialized libraries, and tools for automatically generating embedded code.
 
 ### What is MATLAB used for?:
-- Writing a MATLAB Program. Using Command Window: Only one statement can be typed and executed at a time. It executes the statement when the enter key is pressed. This is mostly used for simple calculations. Note: ans is a default variable created by MATLAB that stores the output of the given computation.
+- MATLAB and Simulink are used as fundamental modeling and simulation tools for research and development wherever engineering and science are applied.
 
 ### AI Joke:
-- Why did the MATLAB programmer break up with their partner?  Because they couldn't find the right "function" in the relationship!
+- Why did the MATLAB programmer bring a ladder to work?  Because they heard the job had a lot of "high-level" functions!
+
+### [Documantation](https://www.mathworks.com/help/matlab/)
 
 # Assembly language ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)
 ### What is Assembly language?:
@@ -166,7 +198,9 @@
 - What is Assembly Language? Assembly language is a low-level language that helps to communicate directly with computer hardware. It uses mnemonics to represent the operations that a processor has to do. Which is an intermediate language between high-level languages like C++ and the binary language.
 
 ### AI Joke:
-- Why do Assembly language programmers prefer to work alone?  Because they can't stand all the high-level "overhead"!
+- Why do Assembly language programmers prefer to work alone?  Because they can't stand all the overhead!
+
+### [Documantation](nan)
 
 # COBOL ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)
 ### What is COBOL?:
@@ -176,7 +210,9 @@
 - COBOL (/ ˈ k oʊ b ɒ l,-b ɔː l /; an acronym for "common business-oriented language") is a compiled English-like computer programming language designed for business use. It is an imperative, procedural, and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
 
 ### AI Joke:
-- Why do COBOL programmers never get lost?  Because they always know how to "navigate" through their data!
+- Why do COBOL programmers always carry a pencil?  Because they want to keep their code "write"!
+
+### [Documantation](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
 
 # Ruby ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)
 ### What is Ruby?:
@@ -186,14 +222,18 @@
 - Ruby developers really love the language and have found many uses for it over the years. Check out some of the places Ruby is used in the list below. Web development. Web development is one of Ruby's claims to fame because of the popular web development framework Ruby on Rails.
 
 ### AI Joke:
-- Why do Ruby developers love nature?  Because they enjoy "gems" in the wild!
+- Why do Ruby developers love nature?  Because they enjoy working with "blocks"!
+
+### [Documantation](https://www.ruby-lang.org/en/documentation/)
 
 # Prolog ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Prolog.png)
 ### What is Prolog?:
 - Prolog is a logic programming language. It has important role in artificial intelligence. Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied.
 
 ### What is Prolog used for?:
-- Prolog is a logic programming language that has its origins in artificial intelligence, automated theorem proving and computational linguistics.  Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is intended primarily as a declarative programming language: the program is a set of facts and rules, which define relations.
+- Prolog is a logic programming language that has its origins in artificial intelligence, automated theorem proving and computational linguistics. [1] [2] [3]Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is intended primarily as a declarative programming language: the program is a set of facts and rules, which define relations.
 
 ### AI Joke:
-- Why did the Prolog programmer get kicked out of the party?  Because they kept trying to resolve all the "queries"!
+- Why did the Prolog programmer get kicked out of the party?  Because they kept trying to query everyone!
+
+### [Documantation](https://www.swi-prolog.org/pldoc/index.html)
