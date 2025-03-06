@@ -6,6 +6,6 @@
 - MATLAB and Simulink are used as fundamental modeling and simulation tools for research and development wherever engineering and science are applied.
 
 ### AI Joke:
-- Why did the MATLAB programmer break up with their partner?  Because they couldn't find the right "function" in the relationship!
+- Why did the MATLAB programmer break up with their partner?  Because they had too many "issues" to solve!
 
 ### [Documentation](https://www.mathworks.com/help/matlab/learn_matlab/help.html)

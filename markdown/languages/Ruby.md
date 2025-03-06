@@ -6,6 +6,6 @@
 - Ruby developers really love the language and have found many uses for it over the years. Check out some of the places Ruby is used in the list below. Web development. Web development is one of Ruby's claims to fame because of the popular web development framework Ruby on Rails.
 
 ### AI Joke:
-- Why do Ruby developers love nature?  Because they enjoy working with "blocks"!
+- Why do Ruby developers love nature?  Because they enjoy working with "gems"!
 
 ### [Documentation](https://www.ruby-lang.org/en/documentation/)

@@ -6,6 +6,6 @@
 - What is C# used for? C# is a general-purpose programming language used to build different types of programs and applications. While it is exceptionally versatile, there are three fields where it is commonly applied: Web Application Development. Regardless of the platform, you can still use the C# programming language.
 
 ### AI Joke:
-- Why do C# developers prefer to play hide and seek?  Because good luck trying to find them with all those namespaces!
+- Why do C# developers prefer to play hide and seek?  Because good luck hiding when they always have a "using" statement!
 
 ### [Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)

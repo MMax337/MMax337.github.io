@@ -3,9 +3,9 @@
 - Prolog is a logic programming language. It has important role in artificial intelligence. Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied.
 
 ### What is Prolog used for?:
-- Prolog is a logic programming language that has its origins in artificial intelligence, automated theorem proving and computational linguistics.   Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is intended primarily as a declarative programming language: the program is a set of facts and rules, which define relations.
+- A list is a collection of items, not necessarily homogeneous. In Prolog, lists are inbuilt data structures. Lists can be used to represent sets, stacks, queues, linked lists, and several complex data structures such as trees, graphs, etc. Basic Notation and Properties of Lists:A list in Prolog is an
 
 ### AI Joke:
-- Why did the Prolog programmer get kicked out of the party?  Because they kept trying to query everyone!
+- Why did the Prolog programmer get kicked out of the bar?  Because they kept trying to query everyone instead of just ordering a drink!
 
 ### [Documentation](https://www.swi-prolog.org/pldoc/index.html)

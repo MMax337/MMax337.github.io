@@ -6,6 +6,6 @@
 - Scratch is designed especially for ages 8 to 16, but is used by people of all ages. Millions of people are creating Scratch projects in a wide variety of settings, including homes, schools, museums, libraries, and community centers.
 
 ### AI Joke:
-- Why did the Scratch programmer bring a ladder to the project?  Because they wanted to reach new heights in coding!
+- Why did the Scratch programmer break up with their partner?  Because they just couldn't find the right "block" to connect!
 
 ### [Documentation](https://scratch.mit.edu/)
