@@ -6,6 +6,6 @@
 - What is Assembly Language? Assembly language is a low-level language that helps to communicate directly with computer hardware. It uses mnemonics to represent the operations that a processor has to do. Which is an intermediate language between high-level languages like C++ and the binary language.
 
 ### AI Joke:
-- Why do Assembly language programmers prefer to work alone?  Because they can't stand all the overhead!
+- Why do Assembly language programmers prefer to work alone?  Because they can't stand all the high-level drama!
 
 ### [Documentation](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)

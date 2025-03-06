@@ -8,4 +8,4 @@
 ### AI Joke:
 - Why do SQL databases make terrible friends?  Because they always want to join!
 
-### [Documentation](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
+### [Documentation](https://dev.mysql.com/doc/)

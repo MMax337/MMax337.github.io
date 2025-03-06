@@ -6,6 +6,6 @@
 - Visual Basic is written in Visual Studio and can be used to create executable files that can run independently. On the other hand, VBA only works within a Microsoft Office host application: Word, Outlook, Excel, Access, or PowerPoint.
 
 ### AI Joke:
-- Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" everyone!
+- Why did the Visual Basic programmer get kicked out of school?  Because they kept trying to "Dim" all their problems!
 
 ### [Documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)

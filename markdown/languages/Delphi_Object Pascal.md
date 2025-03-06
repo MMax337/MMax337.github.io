@@ -3,9 +3,9 @@
 - Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal is a programming language.
 
 ### What is Delphi/Object Pascal used for?:
-- Borland used the name Object Pascal for the programming language in the first versions of Delphi, but later renamed it to the Delphi programming language. However, compilers that claim to be compatible with Object Pascal are often trying to be compatible with Delphi source code.
+- Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software,  currently developed and maintained by Embarcadero Technologies.
 
 ### AI Joke:
-- Why did the Delphi programmer break up with their partner?  Because they couldn't handle the "object" in the relationship!
+- Why did the Delphi programmer break up with their partner?  Because they couldn't handle the exceptions!
 
 ### [Documentation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)

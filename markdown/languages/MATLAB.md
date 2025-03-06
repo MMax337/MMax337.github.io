@@ -6,6 +6,6 @@
 - MATLAB and Simulink are used as fundamental modeling and simulation tools for research and development wherever engineering and science are applied.
 
 ### AI Joke:
-- Why did the MATLAB programmer bring a ladder to work?  Because they heard the job had a lot of "high-level" functions!
+- Why did the MATLAB programmer break up with their partner?  Because they couldn't find the right "function" in the relationship!
 
-### [Documentation](https://www.mathworks.com/help/matlab/)
+### [Documentation](https://www.mathworks.com/help/matlab/learn_matlab/help.html)
